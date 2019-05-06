@@ -556,7 +556,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u79FB\u52D5\uFF1AWASD\n\u8996\u70B9\uFF1A\u30DE\u30A6\u30B9"
+  m_Text: "move\uFF1AWASD\nrotate\uFF1Amouse"
 --- !u!222 &355303803
 CanvasRenderer:
   m_ObjectHideFlags: 0
